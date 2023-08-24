@@ -5,7 +5,7 @@ Esse projeto foi realizado através do curso HTML e CSS: praticando HTML/CSS na 
 A ideia do projeto é vender um combo do Alura Língua + Alura (a plataforma em si). No site, são apresentadas diversas vantagens de assinar o combo, bem como links para navegar na página (que hoje não são funcionais).
 
 ## 🎆 Como acessar?
-Além de baixar os arquivos na sua máquina, você também pode acessar esse site através do link [inserir link]
+Além de baixar os arquivos na sua máquina, você também pode acessar esse site através do [Vercel](https://aluraplus-eight-alpha.vercel.app)
 
 ## 🎆 Linguagens e Ferramentas utilizadas
 * HTML
